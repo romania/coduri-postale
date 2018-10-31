@@ -1,6 +1,6 @@
 ## Despre
 
-O baza de date cu codurile postale din Romania, sunt destule site-uri care ofera "servicil asta" dar au prea multe reclame.
+O bază de date cu codurile poștale din România, sunt destule site-uri care oferă "serviciul asta" dar au prea multe reclame.
 
 ## Sursa SQL 
 
