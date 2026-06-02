@@ -4,7 +4,8 @@ O bază de date cu codurile poștale din România, sunt destule site-uri care of
 
 ## Sursa SQL 
 
-http://www.cipy.ro/internet/baza-de-date-coduri-postale.html
+http://www.cipy.ro/internet/baza-de-date-coduri-postale.html - cea veche / 
+Posta Romana - 31.05.2026
 
 
 ## Sursa XLS
